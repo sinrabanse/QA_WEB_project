@@ -5,8 +5,8 @@ This project involved testing the website [PortoVino](https://www.portovino.co.i
 ## Tasks Completed:
 
 - **Bug Tracking**: All identified bugs were recorded in Jira for further tracking and resolution.
-- **STR (Steps to Reproduce)**: A detailed file of STRs was created to describe how to reproduce the issues and suggestions for improvements.
-- **PowerPoint Presentation**: A presentation was made to showcase the STRs and proposed improvements for the website.
+- **STR (Software Test Results)**: A detailed STR file was created to showcase the test results, issues, and proposed improvements.
+- **PowerPoint Presentation**: A presentation was created to showcase the STR and proposed improvements for the website.
 
 ## How to View:
 
